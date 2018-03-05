@@ -1,0 +1,7 @@
+div {
+    float: left;
+    text-align: right;
+    padding-right: 14px;
+    padding-top: 4px;
+    width:120px;height:120px;-webkit-border-radius: 75px 20px 75px 20px;-moz-border-radius: 75px 20px 75px 20px;border-radius: 75px 20px 75px 20px;border:14px solid #FFFF00;background-color:#E3A20B;-webkit-box-shadow: #B3B3B3 20px 20px 20px;-moz-box-shadow: #B3B3B3 20px 20px 20px; box-shadow: #B3B3B3 20px 20px 20px;
+}
